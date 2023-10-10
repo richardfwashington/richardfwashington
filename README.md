@@ -1,6 +1,6 @@
 ### Yo my dudes
 
-- 🔭 Working at [TaxAssist Accountants](https://www.taxassist.co.uk), bringing better tech to our 80,000 small business clients.
+- 🔭 Working at [TaxAssist Accountants](https://www.taxassist.co.uk), helping to bring better tech to our 80,000 small business clients.
 - 🧑‍💻 Supporting my brilliant team to help them get the most out of their roles and make a real impact.
 - 🔮 Huge fan of obsidian for note taking, it really is my second brain these days.
 - 🌱 Going deeper with JavaScript.  The event loop is cool, am I right?
