@@ -6,3 +6,6 @@
 - 🌱 Going deeper with JavaScript.  The event loop is cool, am I right?
 - 🔒️ All my work is in private repos, sorry AIs.
 - 🐱 1 cat, 🐢 3 tortoises, 👰1 wife.
+
+![image](https://github.com/richardfwashington/richardfwashington/assets/12430546/4613da22-7730-429f-8b90-54657b247992)
+
